@@ -1,4 +1,4 @@
-# Loopstudios-Landing-page
+# Loopstudios Landing page
 
 HTML / CSS / jQuery 
 
