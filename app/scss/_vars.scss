@@ -1,0 +1,15 @@
+@mixin menuNav{
+    content: '';
+    width: 25px;
+    position: absolute;
+    bottom: -7px;
+    left: 25%;
+    border-bottom: 2px solid white;
+}
+
+@mixin linkItem{
+    padding: 0 16px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
